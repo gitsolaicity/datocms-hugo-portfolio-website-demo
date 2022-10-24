@@ -9,12 +9,6 @@ Paginate = 5
   weight = 1
   identifier = "home"
   url = "/"
-  
- [[menu.main]]
- name = "Контакти"
-  weight = 120
-  identifier = "contact_page"
-  url = "/contact_page"
 
 # datocms:start
 title = "Creative Inc."
