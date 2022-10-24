@@ -14,7 +14,7 @@ Paginate = 5
  name = "Контакти"
   weight = 120
   identifier = "contact_page"
-  url = "content/contact_page"
+  url = "/contact_page"
 
 # datocms:start
 title = "Creative Inc."
