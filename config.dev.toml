@@ -5,7 +5,7 @@ Paginate = 5
   env = "development"
 
 [[menu.main]]
-  name = "Home"
+  name = "Головна"
   weight = 1
   identifier = "home"
   url = "/"
